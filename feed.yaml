@@ -1,0 +1,16 @@
+elements:
+  - type: trailer
+    tag: new_release
+    name: Prodeus 1.0
+    release_date: "September 23rd, 2022"
+    youtube_link: "https://www.youtube.com/watch?v=kVNYObIFmYM"
+    vid_id: kVNYObIFmYM
+    on_steam: True
+
+  - type: trailer
+    tag: new_release
+    name: Dome Keeper
+    release_date: "September 27th, 2022"
+    youtube_link: "https://www.youtube.com/watch?v=PFh39iPs28I"
+    vid_id: PFh39iPs28I
+    on_steam: True
